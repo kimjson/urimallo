@@ -62,8 +62,10 @@
     * *Leaf -> 잎 또는 ???*
   * 예문: 가계도의 루트와 리프를 제외한 모든 노드는 부모 노드와 자식 노드를 갖는다. 두갈래탐색가계도의 노드는 최대 둘의 노드를 갖는다.
 * Modularize -> 부품화하다
-
-
+* Pull Request -> 병합 요청
+* Issue -> (명사) 문제점 / 문제 제기
+  * Close an issue -> 문제 제기를 그만두다
+  * Open an issue -> Raise an issue -> 문제를 제기하다
 
 
 
